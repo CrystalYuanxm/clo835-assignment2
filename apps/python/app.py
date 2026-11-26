@@ -1,11 +1,11 @@
 # CLO835 Assignment 2 — Python starter
 # This is VERSION 0.2. To release VERSION 0.3, change MESSAGE below to:
-#   "Hello world from the CLO835 class and <YOUR_STUDENT_ID>!"
+#   "Hello world from the CLO835 class and 135959252!"
 # (replace <YOUR_STUDENT_ID> with your own Seneca student ID, e.g. 10112233)
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 VERSION = "0.2"
-MESSAGE = "Hello world from the CLO835 class!"
+MESSAGE = "Hello world from the CLO835 class and 135959252!"
 PORT = 8080
 
 

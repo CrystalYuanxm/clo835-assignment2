@@ -33,7 +33,7 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            crystalyuan/clo835-app:0.2
+            crystalyuan/clo835-app:0.3
             crystalyuan/clo835-app:${{ github.sha }}
             
       # TODO: check out the code
